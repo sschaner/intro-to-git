@@ -22,3 +22,4 @@
 # git commit
 
 - 'git commit -m "Message here"' moves files in the staging area to the git repository
+- To see a hisotry of commits, use "git log"
