@@ -23,3 +23,11 @@
 
 - 'git commit -m "Message here"' moves files in the staging area to the git repository
 - To see a hisotry of commits, use "git log"
+
+# git add files of a certain type
+
+- to add only html files, use the command "git add \*.html" but don't include the backslash. This is called a wildcard.
+
+# git add all files
+
+- to add all files to the staging area, use the command "git add ."
