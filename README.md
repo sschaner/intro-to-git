@@ -41,3 +41,8 @@
 
 - Any files listed in the .gitignore will be ignored by git.
 - Rename a file with "rm <fileToBeRenamed> <newFilenam>"
+
+# git list branches
+
+- To list all the branches in the git repository, use the command "git branch"
+- To create a new branch and switch to it, use the command "git checkout -b <branch_name>"
