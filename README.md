@@ -26,13 +26,18 @@
 
 # git add files of a certain type
 
-- to add only html files, use the command "git add \*.html" but don't include the backslash. This is called a wildcard.
+- To add only html files, use the command "git add \*.html" but don't include the backslash. This is called a wildcard.
 
 # git add all files
 
-- to add all files to the staging area, use the command "git add ."
-- to add all files and folders to the staging area, use the command "git add -A"git
+- To add all files to the staging area, use the command "git add ."
+- To add all files and folders to the staging area, use the command "git add -A"git
 
 # git remove files
 
-- to remove files from the staging area, use the command "git reset HEAD <filename>"
+- To remove files from the staging area, use the command "git reset HEAD <filename>"
+
+# git ignore files
+
+- Any files listed in the .gitignore will be ignored by git.
+- Rename a file with "rm <fileToBeRenamed> <newFilenam>"
