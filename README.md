@@ -57,3 +57,8 @@
 
 * Switch to the master branch with "git checkout master"
 * Merge the new branch with the master branch with "git merge <new_branch_name>"
+
+# git remove a branch
+
+- Recommended not to delete branches. They don't take up much space and you might need them later on.
+- To remove a branch, use the command "git branch -d <branch_name>"
