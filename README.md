@@ -40,9 +40,20 @@
 # git ignore files
 
 - Any files listed in the .gitignore will be ignored by git.
-- Rename a file with "rm <fileToBeRenamed> <newFilenam>"
+- Rename a file with "rm <fileToBeRenamed> <newFilename>"
 
 # git list branches
 
 - To list all the branches in the git repository, use the command "git branch"
 - To create a new branch and switch to it, use the command "git checkout -b <branch_name>"
+
+# git add a branch
+
+- To switch to a branch, use the command "git checkout <branch_name>"
+
+# git merge a branch
+
+- If we like the new features in our new branch and want to merge it with our master branch:
+
+* Switch to the master branch with "git checkout master"
+* Merge the new branch with the master branch with "git merge <new_branch_name>"
