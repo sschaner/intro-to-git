@@ -40,4 +40,4 @@
 # git ignore files
 
 - Any files listed in the .gitignore will be ignored by git.
-- Rename a file with "rm <fileToBeRenamed> <newFilenam>"
+- Rename a file with "rm <fileToBeRenamed> <newFilename>"
