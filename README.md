@@ -31,3 +31,8 @@
 # git add all files
 
 - to add all files to the staging area, use the command "git add ."
+- to add all files and folders to the staging area, use the command "git add -A"git
+
+# git remove files
+
+- to remove files from the staging area, use the command "git reset HEAD <filename>"
