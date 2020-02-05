@@ -56,7 +56,7 @@
 - If we like the new features in our new branch and want to merge it with our master branch:
 
 * Switch to the master branch with "git checkout master"
-* Merge the new branch with the master branch with "git merge <new_branch_name>"
+* Merge the new branch with the master branch with 'git merge <new_branch_name> -m "<message>"'
 
 # git remove a branch
 
